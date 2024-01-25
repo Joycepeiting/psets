@@ -1,9 +1,9 @@
-This is the folder for code files for pset3.
-Files for Q1:
+# This is the folder for code files for pset3.
+## Files for Q1:
   pset3q1.m: matlab code for running all results
   ngm_model.mod: NGM model using dynare
   ngm_model_linear.mod: NGM model using dynare linear approximation
-Files for Q2:
+## Files for Q2:
   pset3q2.m: matlab code for running all results
   ngm_labor.mod: NGM model using dynare
   ngm_labor_linear.mod: NGM model using dynare linear approximation
